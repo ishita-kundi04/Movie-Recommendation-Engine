@@ -1,0 +1,13 @@
+// API Key (v3 auth)
+e36d02f6017e92b86e5d197452453fb6
+
+// Example API Request
+"https://api.themoviedb.org/3/movie/550?api_key=e36d02f6017e92b86e5d197452453fb6"
+
+// API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlMzZkMDJmNjAxN2U5MmI4NmU1ZDE5NzQ1MjQ1M2ZiNiIsInN1YiI6IjYyODljMzIxZWM0NTUyMT
+g4NTE1ODdlOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.KSaW3fS - dXzfGNDvWgfN_1Ajx8lSCsLHVaGTcOUK - BA
+
+
+// FINAL LINK 
+// https://netflix-clone-cd47e.web.app/
