@@ -5,6 +5,8 @@ Link to the refernce page which I will be using as my frontend - https://netflix
 
 Python Notebook - https://colab.research.google.com/drive/1249bljluGnQpYDN491Lc6z6fcRHMUJcT?usp=sharing
 
+Refrence@ - http://surl.li/flqak
+
 Recommender System is a system that seeks to predict or filter preferences according to the user’s choices. Recommender systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general. 
 Recommender systems produce a list of recommendations in any of the two ways – 
  
