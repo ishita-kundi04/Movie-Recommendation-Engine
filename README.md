@@ -1,4 +1,4 @@
-# Microsoft-Engage-2022-project
+# Movie Recommendation Engine 2023
 Building a Movie Recommendation Engine using Python and MERN stack
 
 Link to the refernce page which I will be using as my frontend - https://netflix-clone-cd47e.web.app/
