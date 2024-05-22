@@ -8,9 +8,9 @@ import './App.css';
 const App = () => {
   return (
     <div className='app'>
-      {/* NavBar */}
+      {/* NavBar for the application */}
       <Nav />
-      {/* Banner */}
+      {/* Banner containing dynamic photo */}
       <Banner />
 
       <Row title="Recommended for you" fetchURL={requests.fetchNetflixOriginals} isLargeRow={true} />
